@@ -1,0 +1,22 @@
+body {
+    background-image: url("mountain.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+
+#TheArea {
+position: absolute;
+top: 39%;
+left: 34%;
+color: white;
+font-size: 80px;
+}
